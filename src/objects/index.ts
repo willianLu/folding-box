@@ -1,0 +1,1 @@
+export { default as PlaneImg } from './plane-img'
